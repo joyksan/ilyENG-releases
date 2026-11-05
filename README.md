@@ -23,7 +23,7 @@
 
 ### [ilyENG FolderMap 설치 패키지 다운로드 (.pkg)](https://github.com/joyksan/ilyENG-releases/raw/refs/heads/main/ilyENG_FolderMap_Installer.pkg)
 
-*패키지 용량: 약 2.7 MB · Apple Silicon 및 Intel Mac 지원 · 관리자 권한 불필요*
+*패키지 용량: 약 63 MB · Apple Silicon 및 Intel Mac 지원 · 관리자 권한 불필요*
 
 </div>
 
@@ -158,7 +158,7 @@ Claude Desktop에서 ilyENG의 진단·정리 도구를 대화로 사용할 수 
 
 - **운영체제**: macOS 11.0 Big Sur 이상 (macOS 12, 13, 14, 15 지원)
 - **지원 아키텍처**: Apple Silicon 및 Intel 64-bit Mac
-- **실행 환경**: Python 3.12 런타임을 앱에 동봉 (별도 설치 불필요)
+- **별도 설치 없음**: Python 런타임이 앱에 포함되어 있습니다
 
 ---
 
